@@ -32,8 +32,15 @@
 }
 
 .ImagenesBegins {
+    margin: 20px 0px 0px 0px;
     width: 300px;
-    height: 300px;
+    height: auto;
+}
+.enlaceInicio {
+    color: white;
+    background-color: black;
+    margin: 0px 40px 20px 40px;
+    text-decoration: none;
 }
 
 .container {
